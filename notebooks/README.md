@@ -21,5 +21,13 @@
 ## machine learning
 
 - correlation.ipynb
+  
+  Depiction of correlation between various parameters responsible for NO2 generation using Multivariate Analysis.
+  
 - ML_model_1.ipynb
+
+  Simple neural network to predict the NO2 generation on a specific day using the parameters which were having specific correlation in multivariate analysis.
+  
 - ML_model_2.ipynb
+
+  Simple neural network to predict the NO2 generation on a specific day using the parameters which were having specific correlation in multivariate analysis.
