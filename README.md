@@ -28,7 +28,7 @@ Most data used in our project are accessed from the the Earth Observing Dashboar
 
 - Project code is available here: https://github.com/zxdawn/TRACER.
 - 7-slide presentation: https://raw.githubusercontent.com/zxdawn/TRACER/main/ppt/7-slide_Tracer.pptx
-- Video: https://raw.githubusercontent.com/zxdawn/TRACER/main/ppt/visualization.gif
+- Video: https://raw.githubusercontent.com/zxdawn/TRACER/main/ppt/visualization.mp4
 - Project Website: https://shiptracer.github.io/
 
 ## Data & Resources
